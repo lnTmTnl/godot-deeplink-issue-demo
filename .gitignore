@@ -1,0 +1,33 @@
+# Godot generated files
+.godot/
+*.import
+*.uid
+
+# Export templates
+export_presets.cfg
+
+# Imported files (those would be imported from assets on build)
+.import/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build outputs
+*.app
+*.apk
+*.aab
+*.ipa
+
+# Keep addons
+!addons/
+
+android/
